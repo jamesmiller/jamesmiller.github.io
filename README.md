@@ -1,4 +1,4 @@
 jamesmiller.github.io
 =====================
 
-log.borgmind.net
+docs.npa604.com
